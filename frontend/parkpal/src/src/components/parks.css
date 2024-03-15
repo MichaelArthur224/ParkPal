@@ -1,0 +1,57 @@
+.parks {
+    padding-top: 10px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeIn{
+    100%{
+        opacity: 1;
+}
+}
+
+.search {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.search-input {
+    width: 60%;
+    height: 50px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 50px; 
+    font-size: 2rem; 
+}
+.results{
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 10px; 
+    text-align: center;
+    width: 60%;
+    height: 300px;
+    border: 5px solid black;
+    overflow:scroll;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+.results::-webkit-scrollbar {
+    width: 10px;
+  }
+
+.results::-webkit-scrollbar-thumb {
+    background: blue;
+  }
+.results p{
+    font-size: 15px;
+}
+   
+.list{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.about h1{
+    padding-top: 10px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeIn{
+    100%{
+        opacity: 1;
+}
+}
+
+.about p{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 50px;
+    line-height: 40px;
+    color: black;
+    font-size: 20px;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
