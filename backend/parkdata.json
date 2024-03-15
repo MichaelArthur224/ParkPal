@@ -1,0 +1,7842 @@
+[
+  {
+    "Name": "Koligian",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Lions",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Rotary East",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Logan",
+    "City": "Fresno"
+  },
+  {
+    "Name": "University",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Roeding Regional",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Melody",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Lafayette",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Neilsen",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Cary",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Almy",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Inspiration",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Cultural Arts",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Regional Sports Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Woodward Regional",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Todd Beamer Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Bob Belcher Park/Dog Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Stallion",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Vinland",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Quigley",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Ted C. Wills",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Mary Ella Brown",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Holman",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Fink-White",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Mosqueda",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Manchester",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Selma Layne",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Sunnyside",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Dickey",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Kaiser",
+    "City": "Fresno"
+  },
+  {
+    "Name": "San Pablo Family",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Highway City",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Romain",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Barstow & Del Mar (F)",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Bigby Villa",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Oso de Oro",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Jaswant Singh Khalra",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Holmes",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Chandler",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Trolley Creek",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Einstein",
+    "City": "Fresno"
+  },
+  {
+    "Name": "El Dorado",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Pilibos",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Pinedale",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Maxie L. Parks Community Center and Gym",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Kearney Triangle Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Keith Tice",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Orchid",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Robinson",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Emerald Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Figarden Loop Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "First & Bullard (O)",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Safety Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Audubon/LLMD",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Dog",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Large",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Carroza",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Willow/Balch",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Al Radka Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Martin Ray Reilly",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Reedy (Discovery Ctr.)",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Riverbottom",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Granny's",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Hinton Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Radio",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Eaton Plaza",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Frank H. Ball",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Spano",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Centex",
+    "City": "Fresno"
+  },
+  {
+    "Name": "California/Tupman",
+    "City": "Fresno"
+  },
+  {
+    "Name": "California, Mayor/A",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Dickey Youth Center",
+    "City": "Fresno"
+  },
+  {
+    "Name": "First & Nevada",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Maple & McKinley",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Ninth & Tulare",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Bulldog/Sixth Street",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Palm Lakes",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Milburn Overlook",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Rabe Park",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Rotary West (B/E) (Basin)",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Sunset",
+    "City": "Fresno"
+  },
+  {
+    "Name": "Sunset Cove Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Central Parkway Extension",
+    "City": "New York City"
+  },
+  {
+    "Name": "Challenge Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eastern Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cross Island Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Archie Spigner Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Watson Gleason Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach 17 Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edgemere Coalition",
+    "City": "New York City"
+  },
+  {
+    "Name": "Windmill Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Shiloh Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Nicholas - Powers St. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ashmead Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brinkerhoff Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vernon Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Green Valley Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sutter Ballfields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "O'Sullivan Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis Armstrong Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Colden Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem River Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Utopia Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Plaut Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Linnaeus Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Baybridge Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Central Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sabba Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Doughboy Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "William F Moore Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mentone Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richmond Terrace Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Positive Seeds of Life Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greenwood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Army Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Catharine Turner Richardson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Raymond O’Connor Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Miele Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Cortlandt Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Martin Luther King, Jr. Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Meredith Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lafayette Gardens Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Red Shed Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mohegan Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "O'Brien Oval",
+    "City": "New York City"
+  },
+  {
+    "Name": "Freeman Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Old Place Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Diversity Edible Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walt Whitman Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flatbush African Burial Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Herbal Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hancock T and T",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Of Life",
+    "City": "New York City"
+  },
+  {
+    "Name": "Givan Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carlos R. Lillo Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joseph Daniel Wilson Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brinkerhoff Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Beach",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cooper Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lincoln Center Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Throgs Neck Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Heights Promenade",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hugh J. Grant Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beattie Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sarah J.S. Tompkins Garnet Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Detective Keith L Williams Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Campos Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spring Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frost Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Dyke Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ruppert Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "W 87th Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alley Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clinton Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stars Of Hope",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Mark's Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greene Av United Neighbors Association Inc",
+    "City": "New York City"
+  },
+  {
+    "Name": "Legacy Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greenpoint Public Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "NYC AIDS Memorial Park at St. Vincent’s Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hattie Carthan Herb Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Centro Cultural Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walter Miller III Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Audubon Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Neptune Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stebbins Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "FDNY-EMT Yadira Arroyo Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Taylor Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cedar Grove Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Delphin H. Greene Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Painter's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wayanda Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garlinge Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Equity Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Happy Warrior Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Golconda Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arden Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 279 Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Catherine Scott Promenade",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gateway Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barnhill Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bella Abzug Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Horsebrook Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis Pl Friends",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flynn Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bathgate Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Angie Lee Gonzales Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Madison Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "O'Neill Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sparrow's Nest Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bar and Grill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKinley Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Targee Street Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Yolanda García Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Staats Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pleasant Plains Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peaceful Valley Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gonzalo Plasencia Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "University Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Gate Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Shabazz Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woodruff Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Plaza Lafayette",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Flamboyan Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Yak Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground 286",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Party",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ewen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "De Witt Clinton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bayview Terrace Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woodrow Wilson Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fraser Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mt. Carmel Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dodgers Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Aimee Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Penn Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Classon Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Turtle Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Calvary Monument",
+    "City": "New York City"
+  },
+  {
+    "Name": "Macri Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elmjack Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gasoline Alley",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joseph Manna Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abingdon Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Goble Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hancock Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crescent Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Cortlandt's Tail",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ahearn Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peace Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walton Walk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Featherbenches",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kingdom Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Evergreen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Siedenburg Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "New Dorp Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Decatur Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harmony Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Inwood Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "I-Am-Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rita Ley Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Valentine Varian House",
+    "City": "New York City"
+  },
+  {
+    "Name": "Risse Street Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harris Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Perla Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grant Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Taqwa Community Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sweetgum Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elmhurst Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richard Tucker Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thomas Jefferson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stop & Go Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcus Garvey Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Daniel Boone Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 186 Day Treatment Program",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ditmars Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Freedom Square Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hoe Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sophie Irene Loeb",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gladys Warren Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lawrence Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stuyvesant Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Straus Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "James J Walker Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brook Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "People's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Robert Moses Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "West 4th Street Courts",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wegener Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach Channel Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "James Weldon Johnson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "William McCray Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Fagan Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Martin Luther King Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ryan Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hot Spot Tot Lot",
+    "City": "New York City"
+  },
+  {
+    "Name": "A.R.R.O.W. Field House",
+    "City": "New York City"
+  },
+  {
+    "Name": "Badame Sessa Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fulton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chief Dennis L. Devlin Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Taylor-Soundview Block Assoc. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Heath Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Miracle Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jaime Campiz Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sherman Creek",
+    "City": "New York City"
+  },
+  {
+    "Name": "Virginia Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abe Lebewohl Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vidalia Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Astoria Health Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Veterans Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cooper Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fordham Landing Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Morris Mesa",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dunbar Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harold Ickes Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corlears Hook Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fidler-Wyckoff House Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "American Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Amersfort Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Plimpton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Featherbed Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Northerleigh Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Markham Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Underbridge Dog Run",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bridge Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tribeca Dog Run",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington Market Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lewis H Latimer House",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bay Terrace Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prospect Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beanstalk Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Donnellan Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joyce Kilmer Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mott Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Montefiore Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Great Kills Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "West Farms Soldiers Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nathan Straus Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bellaire Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Annadale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harris Brothers Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Andries Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corona Taxpayers Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bryant Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Generation X",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grove Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Discovery Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "East River Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Big Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poor Richard's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Augustus St. Gaudens Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edenwald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woodycrest Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Michael's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Beach and Boardwalk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Bennett Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Astoria Heights Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chiarantano Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Langston Hughes Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground One Twenty Five CXXV",
+    "City": "New York City"
+  },
+  {
+    "Name": "Booker T. Washington Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marx Brothers Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Public Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain John McKenna, IV Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tony Dapolito Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Amboy Neighborhood Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hull Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Summit Street Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Human Compass Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Green Central Knoll",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Federico Narvaez Tot Lot",
+    "City": "New York City"
+  },
+  {
+    "Name": "University Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willoughby Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carver Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Green Gems",
+    "City": "New York City"
+  },
+  {
+    "Name": "Paul Raimonda Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Nicholas Miracle Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ranaqua Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wilson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Star Spangled Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Roebling Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sumner Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Potomac Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "McDonald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sheepshead Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Yankee Stadium Garages/Lots",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Andrew's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Garage",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dutch Kills Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Roy Wilkins Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Long Island Mews",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Jay Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hybrid Oak Woods Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Remsen Family Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Police Officer Nicholas Demutiis Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Springfield Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dimattina Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Newtown Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hamilton Metz Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Russell Pedersen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Continental Army Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackie Robinson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clearview's Tail",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joe Holzka Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lafayette Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nellie Bly Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tottenville Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dongan Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tilyou Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. James Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bildersee Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gun Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Magenta Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gorman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Boerum Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Totten Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mill Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis Pasteur Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hillside Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bailey Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "James A. Bland Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Highland Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fox Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alexander Grey Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "61 Franklin St Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Sixty Two LXII",
+    "City": "New York City"
+  },
+  {
+    "Name": "Murray Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seaside Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden of Plenty",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seasons of Vision",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Av Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Springfield Park North",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hollis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prall Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flushing Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Eighty LXXX",
+    "City": "New York City"
+  },
+  {
+    "Name": "Madison Community Greenthumb",
+    "City": "New York City"
+  },
+  {
+    "Name": "Victory Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vernon Tandt Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Upon This Rock Comm Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gregory's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Manley's Pl",
+    "City": "New York City"
+  },
+  {
+    "Name": "Madison Street Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Madison Square Garden Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lefferts Pl Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Douglaston Park Golf Course",
+    "City": "New York City"
+  },
+  {
+    "Name": "F.A.R.R. Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mw United Orient Grand Lodge",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vernon New Harvest",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sterling Community Group",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fantasy Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Owen F. Dolen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "William Sheridan Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Msgr. McGolrick Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sylvan Grove Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Taaffe Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Torsney Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Admiral Farragut Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fairmount Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Drumgoole Tot Lot",
+    "City": "New York City"
+  },
+  {
+    "Name": "D'Emic Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Lawrence Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Havemeyer Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pontiac Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Graham Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "138th St. Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saw Mill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "West Harlem Piers",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bicentennial Veterans Memorial Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peretz Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sergeant Collins Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Quick Brown Fox Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sitting Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saw Mill Creek Marsh",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Brother Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Andrew Haswell Green Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alexander's Alley",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ferris Family Burial Plot",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKenna Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jane Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Weeksville Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hilton Holiday Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whitey Ford Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arcilla Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "11 BC Serenity Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Murray Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gilbert Ramirez Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Paerdegat Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Neighborhood Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Melrose Commons Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flood Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ramon Aponte Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Riverside Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Todd Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Block Association #81",
+    "City": "New York City"
+  },
+  {
+    "Name": "B.C.C.A. Mini-park and Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Las Casitas Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gerard P. Dugan Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sam and Sadie Koenig Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corona Health Sanctuary",
+    "City": "New York City"
+  },
+  {
+    "Name": "Laguardia Landing Lights",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barrett Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Heisser Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cambria Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maple Grove Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackson Mill Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pigeon Paradise",
+    "City": "New York City"
+  },
+  {
+    "Name": "Steinmann Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sohncke Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Veteran's Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bell Tower Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sgt. Joyce Kilmer Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lowry Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kaltenmeier Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Goodhue Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brisas Del Caribe",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Secret Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Irving Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Court Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Schmul Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "John E. White Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hero Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tall Oak Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Admiral Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saul Weprin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rory Staunton Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chelsea Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKinley Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clement Clarke Moore Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. James Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Norelli-Hargreaves Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Collect Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 155 Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bloomingdale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Litchhult Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Greene Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richmond Terrace Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Westwood Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Northern Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Ninety",
+    "City": "New York City"
+  },
+  {
+    "Name": "Patrick Van Doren Pocket Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. John Cantius Parish",
+    "City": "New York City"
+  },
+  {
+    "Name": "Shield Of Faith",
+    "City": "New York City"
+  },
+  {
+    "Name": "Red Gate Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tribute Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Boone Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gaeta Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Freeman Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Franklin Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hines Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lyons Square Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dawson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Schomberg Academy Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poppenhusen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "College Point Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bill Rainey Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Anchorage Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "176th Street Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triangle 90",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bradhurst Ave Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Earth People",
+    "City": "New York City"
+  },
+  {
+    "Name": "Laredo Avenue Parcel",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sugar Hill Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eastern Parkway Extension",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alley Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Citizens For A Better Community",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lefferts Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Glendale Veterans Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Trolley Car Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Middleburgh Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Vincent Daniels Jr. Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fleetwood Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dunningham Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Detective Joseph Mayrose Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elizabeth Stroud Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Heffernan Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Judge Angelo Graci Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Clove Road Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 53",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vinmont Veteran Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carlton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triangle Three Sixteen",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Duffy Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sobel Court Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground of the Americas",
+    "City": "New York City"
+  },
+  {
+    "Name": "Linwood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ketchum Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "D'Onofrio Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "James Madison Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Givans Creek Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "LaGuardia Landing Lights",
+    "City": "New York City"
+  },
+  {
+    "Name": "Latham Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain William Harry Thompson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Powell Street Livonia Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Michael's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcus Garvey Tenant's Assoc. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Family Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cedar Tree Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "American Veterans Memorial Pier",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sixteen Oaks Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach 9 Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brant Point Wildlife Sanctuary",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hamilton Fish Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whitefish Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground One Forty",
+    "City": "New York City"
+  },
+  {
+    "Name": "Recreational Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Myrtle Avenue Clemens Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "One Room Schoolhouse Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pinocchio Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "5 Borough Shops",
+    "City": "New York City"
+  },
+  {
+    "Name": "Purple Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Keap Fourth Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Meucci Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackson Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Oasis Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dwyer Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Freeway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Junction Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lawrence Virgilio Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kolbert Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Huguenot Ponds Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lieutenant John H. Martinson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sumpter Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sheepshead Bay Piers",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tucker Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kelly Park Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.O. Serrano Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "TRUCE Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brower Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fidelity Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Albert Capsouto Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harding Park Beautification Project",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garibaldi Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Mary's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Emerald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackie Robinson Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Morningside Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Castle Hill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Travers Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eight Oaks Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Batey Borincano Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerome Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "E 4th Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Freedom Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bergen Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Clinton L .Whiting Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corona Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barclay Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground 115",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bryant Hill Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain Dermody Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Last Chance Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKenna Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bowne Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bridge Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willow Lake Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Space Time Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frank Principe Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lopez Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harvey Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Monsignor Crawford Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Glenwood Landing",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerome Playground South",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carolina Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hoyt Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sleight Family Graveyard",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triborough Bridge Playground E",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triborough Bridge Playground C",
+    "City": "New York City"
+  },
+  {
+    "Name": "Duane Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rudd Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seaside Wildlife Nature Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nine Heroes Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Blueberry Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Homecrest Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Henry Hudson Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Concerned Residents of Montauk Avenue",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cypress Hills Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gouverneur Morris Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mount Hope Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sobel Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bedford Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Westerleigh Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Leif Ericson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ingram Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "Veterans Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bruckner Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "700 Decatur St Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Manor Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Castle Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Caserta Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dr. Ronald McNair Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clinton Community Garden (LES)",
+    "City": "New York City"
+  },
+  {
+    "Name": "Broad Channel Wetlands",
+    "City": "New York City"
+  },
+  {
+    "Name": "Norelli-Hargreaves Memorial Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gethsemane Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hendrick I. Lott House",
+    "City": "New York City"
+  },
+  {
+    "Name": "Daniel Carter Beard Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Orient Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carl Schurz Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Galapo Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sunners Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Foch Sitting Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crosson Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Shooters Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garrison Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Noble Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Umoja Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "TLC Sculpture Park Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bradys Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Travis Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jacob Riis Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lady Moody Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Von Briesen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Epiphany Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triborough Bridge Playground B",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cuyler Gore Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Echo Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Church Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frederick Johnson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Southern Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "William Simmons Community Garden Club",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dias Y Flores",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Hamilton Athletic Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Hill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "McGuire Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Green Oasis and Gilbert's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Firemen's Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Olde Towne of Flushing Burial Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Margrichante Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clove's Tail",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Canal Court",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chappetto Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kimlau Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hermon A. MacNeil Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barrier Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Strippoli Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Redfern Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crosson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maurice A FitzGerald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Judge Moses Weinstein Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ehrenreich-Austin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Patricia A. Brackley Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dr. Charles R. Drew Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flushing Greens",
+    "City": "New York City"
+  },
+  {
+    "Name": "McLaughlin Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rainey Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Proctor-Hopson Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Blake Hobbs Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "United Community Centers Youth Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nautilus Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "John V. Lindsay East River Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Project Eden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Herbert Von King Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poseidon Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sidney Hillman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ambrosini Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maple Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "First Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Euclid Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Wm. Tighe Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dante Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Police Officer Edward Byrne Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Major General John R Brown Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marlboro Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cherry Clinton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Heckscher Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vernam Barbadoes Peninsula",
+    "City": "New York City"
+  },
+  {
+    "Name": "Manhattan Beach Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "McLaughlin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "110th Street Block Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seabury Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Columbus Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "MacDonald Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Middle Village Veterans Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "A Philip Randolph Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackie Robinson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bennett Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sherman Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Straus Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Canal Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eastern Parkway Coalition",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crystal Wells Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Graniteville Swamp Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sedgwick Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mosaic Success Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "College Point Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cunningham Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Farm Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poppenhusen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Glen Oaks Oval",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kissena Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Forest Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "MacLaughlin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marie Curie Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Twenty One",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harvard Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Breininger Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sunrise Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "400 Montauk Av Block Assn",
+    "City": "New York City"
+  },
+  {
+    "Name": "United Community Centers - E New York Farms Project",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spencer St Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Victory Garden's Group",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saratoga Square Urban Renewal Area, Site 164",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nehemiah Ten Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "A Better Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ponderosa Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lincoln Rd Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerry and The Senior Gents",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerome Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sh'ma Yisrael",
+    "City": "New York City"
+  },
+  {
+    "Name": "Good Shepherds Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Christopher Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "First Quincy St Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Farmers Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elton St Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "East End Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walt L Shemal Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cooper St Block Buster Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Graniteville Quarry Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mill Rock Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clifton Pl Memorial Park and Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "New Vision Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Berry Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cadman Plaza Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Causa Festival Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ten Eyck Houses Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Joseph Petrosino Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Martin Luther Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Coffey Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Betsy Head Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis C. Moser Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain Tilly Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rufus King Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lindsay Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dorrance Brooks Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Aqueduct Walk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saratoga Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Stirling Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dodger Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ogden Plimpton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Amelia Gorman Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crotona Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rock Garden Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Winthrop Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rainbow Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKinley Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Model T Senior Citizen's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Railroad Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Colucci Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Skyline Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Murphy Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Colgate Close",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bradhurst Gardens Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Finca del Sur Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lozada Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wood Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sakura Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Haven Avenue",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ciccarone Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Virginia Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Drew Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beatty Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Franklin Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Benjamin Gladstone Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground One Thirty Four CXXXIV",
+    "City": "New York City"
+  },
+  {
+    "Name": "Granja Farm OTF",
+    "City": "New York City"
+  },
+  {
+    "Name": "Williamsbridge Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seton Falls Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sperandeo Brothers Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mahoney Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sutton Parks",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sutton Place Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hutton Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jones Woods Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach 59th St Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dubos Point Wildlife Sanctuary",
+    "City": "New York City"
+  },
+  {
+    "Name": "Technical Sergeant Thomas J. Davey Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Moore Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tudor Grove Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clark Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hull Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frontera Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peter Chahales Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Moore Homestead Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Parkside Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pulaski Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gen. Douglas MacArthur Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bennett Rest",
+    "City": "New York City"
+  },
+  {
+    "Name": "Minetta Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Giorgio Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "University Woods",
+    "City": "New York City"
+  },
+  {
+    "Name": "Allied Productions/Le Petit Versailles",
+    "City": "New York City"
+  },
+  {
+    "Name": "Locust Point Marina",
+    "City": "New York City"
+  },
+  {
+    "Name": "Children's Magical Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whole Neighborhood Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sitting Area 127 CXXVII",
+    "City": "New York City"
+  },
+  {
+    "Name": "Telephone Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Adam Yauch Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Feeding Tree",
+    "City": "New York City"
+  },
+  {
+    "Name": "Oko Farms Aquaponics Education Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "100 Quincy Street Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Little Green Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Gallo Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poppa and Momma Jones Historical Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hinton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. John's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Mark's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Phil \"Scooter\" Rizzuto Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joan Of Arc Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Pearly Gates",
+    "City": "New York City"
+  },
+  {
+    "Name": "James Forten Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Powell Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Pacific Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rappaport Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dome Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rolph Henry Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ocean Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Banneker Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Colonel David Marcus Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grant Gore",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beaver Noll Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand St. Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Raymond Bush Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cough Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Admiral Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Welcome Home Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sam Leggio Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "811 Family and Friends Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sergeant Johnson Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ocean Breeze Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Yu Suen Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "East New York Farms Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "East River Esplanade",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sheridan Square Viewing Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Battery Park City",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tramway Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grover Cleveland Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Leave it Better Kids' Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Duarte Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sixteen Sycamores Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thomas J. Cuite Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seeley Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "97th Street Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Locust Manor Civic Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "George Eagle Carr Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Manuel De Dios Unanue Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lion's Pride Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peters Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sherry Dog Run",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woodtree Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Frank McConnell Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hollis Veterans Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fresh Meadows Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hoover - Manton Playgrounds",
+    "City": "New York City"
+  },
+  {
+    "Name": "L/CPL Thomas P. Noonan Jr. Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Benninger Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park Of The Americas",
+    "City": "New York City"
+  },
+  {
+    "Name": "Westbourne Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "George Washington Carver Botanical Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Veterans Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Short Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "General Hart Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seven Gables Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ida Court",
+    "City": "New York City"
+  },
+  {
+    "Name": "Milestone Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sternberg Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sixteen Lindens Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park at Beach 108 Street",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alben Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. George Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Great Kills Veterans Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Scarangella Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abraham Lincoln Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wolfe's Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sledge Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thomas Paine Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jesse Owens Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Christopher J. Igneri Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Shore Park and Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Liotti Ikefugi Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bobbie Lewis Jr. Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "De Matti Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Levy Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Owl's Head Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Memorial Gore",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vinegar Hill Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pugsley Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tappen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gravesend Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Paul Jones Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Keltch Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "North Shore Esplanade",
+    "City": "New York City"
+  },
+  {
+    "Name": "Veterans Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cherry Tree Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "The High Line",
+    "City": "New York City"
+  },
+  {
+    "Name": "Johnny Hartman Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Sol Brilliante Jr",
+    "City": "New York City"
+  },
+  {
+    "Name": "Neighbors Of Vega Baja",
+    "City": "New York City"
+  },
+  {
+    "Name": "Olmsted-Beil House Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "East Springfield Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vleigh Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Schneider Sampson Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edgecombe Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Creative Little Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "5th St Slope Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "6BC Botanical Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Collyer Brothers Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corporal Frank F. Fagan Sq.",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sergeant Colyer Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bellerose Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Broad Channel Veteran's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Reiff Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edgemere Urban Renewal Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Leonard Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Studley Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dan Ross Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "David J O'Connell Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corporal Ruoff Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tudor Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Catholic War Veterans Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ruoff Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vietnam Veterans Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "American Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Reilly Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Drumm Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Federalist Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Monsignor Raul Del Valle Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frank Golden Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bowne Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wellbrock Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Legion Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Steuben Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington Hall Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Queens Village Veterans Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sean's Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prophecy Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abib Newborn Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rafferty Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hoffman Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Linden Sitting Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cleveland Street Vegetable Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Laurelton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brookville Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gordon Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Escape To Nature",
+    "City": "New York City"
+  },
+  {
+    "Name": "Floral Vineyard",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clara's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Old Gravesend Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Atkins Gardeners",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Bears Carlton Ave Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Athens Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Isle Of Meadows",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hunts Point Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spirit Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rosemary's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hook Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mosholu Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bayswater Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hattie Carthan Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pulaski Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rainbow Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kennedy King Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greene Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Oracle Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Luna Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Oxport Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Classon Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pratt Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Power Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harry Maze Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park Avenue Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Patrick O'Rourke Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Staten Island Industrial Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brownsville Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Railroad Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Bears Rockwell Pl Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hilltop Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "First Temple Of David",
+    "City": "New York City"
+  },
+  {
+    "Name": "Planeview Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rodney Park South",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.O. Reinaldo Salgado Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rodney Playground Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seagirt Ave Wetlands",
+    "City": "New York City"
+  },
+  {
+    "Name": "Auburndale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tudor Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Metro Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clemens Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Guardia Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Conch Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bedford Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Lia Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hutchinson River Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greencroft Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sports Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lot",
+    "City": "New York City"
+  },
+  {
+    "Name": "Soundview Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "225 Street Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nakks Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eibs Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Midland Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ralph Demarco Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sunset Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crispus Attucks Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lost Battalion Hall Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Big Red Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joseph Austin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Volky Garden & Flowers",
+    "City": "New York City"
+  },
+  {
+    "Name": "Theodore Roosevelt Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clintonville Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bayside Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abyssinian Tot Lot",
+    "City": "New York City"
+  },
+  {
+    "Name": "Francis Lewis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Nicholas - Olive St. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ampere Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alameda Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Allen Street Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "United Block Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "East River Walk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Egbert Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barone Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Trust Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cutinella Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flatbush Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dr. Ronald E. McNair Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Convent Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dry Dock Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Private William Gray Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Yellowstone Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bleecker Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Penn South Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Renaissance Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willets Point Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Horace Harding Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Rochdale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hart Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harold Schneiderman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flatbush Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Steinway Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dahill Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Petrosino Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Life Spire Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kenkeleba House Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Humacao Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vamos Sembrar",
+    "City": "New York City"
+  },
+  {
+    "Name": "Big Bush Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jacob H. Schiff Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gutenberg Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Of Love",
+    "City": "New York City"
+  },
+  {
+    "Name": "Elizabeth Langley Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "De Colores Community Yard and Cultural Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Broadway Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Adam Clayton Powell Jr. Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jacob's Ladder Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Young Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Voorhees Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Columbus Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Samuel N. Bennerson 2nd Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jamaica Bay Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Baruch Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sankofa Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Underwood Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Bridge Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mapes Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lyons Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "Callahan-Kelly Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Blue Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Latimer Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Seventy Five",
+    "City": "New York City"
+  },
+  {
+    "Name": "Inwood Hill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kingsbridge Heights Community Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Diamante Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Davidson Ave. Community Gardeners Group",
+    "City": "New York City"
+  },
+  {
+    "Name": "Townsend Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dyckman House Museum",
+    "City": "New York City"
+  },
+  {
+    "Name": "Claremont Neighborhood Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greeley Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Isla Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thorpe Family Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Old Croton Aqueduct Gatehouse",
+    "City": "New York City"
+  },
+  {
+    "Name": "Unity Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mitchel Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eae J Mitchell Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Morgan Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Little Claremont Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jardin De La Familia",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jardin de la Roca",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grassmere Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Russell Sage Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Southside Burial Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brigadier General Charles Young Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peter Minuit Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vladeck Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vernon/Throop Ave Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Granite St Block Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Alst Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Locust Manor Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Idlewild Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Randall's Island Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Concerned Residents of Barbey Street",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tribeca Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nassau Mall South",
+    "City": "New York City"
+  },
+  {
+    "Name": "Allerton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Santos White Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jefferson Market Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Parks Council Success Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "132 St Block Association Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Riverdale Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Merriam Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fountain Of Youth Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hunts Point Riverside Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hell's Kitchen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Eighty Nine LXXXIX",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tottenville Shore Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pier 107 CVII",
+    "City": "New York City"
+  },
+  {
+    "Name": "Coney Island Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "River Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Evelina Antonetty Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "McCarren Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Motor Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Memorial Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dorothy K. McGowan Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sol Bloom Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lemon Creek Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eugene McCabe Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Udall's Park Preserve",
+    "City": "New York City"
+  },
+  {
+    "Name": "Michel Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Golden Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fruit Street Sitting Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Belt Parkway/Shore Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Henry M. Jackson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peter's Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brookfield Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mall Forty Two XLII",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barretto Point Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maple Street Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Betty Carter Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rev. Linnette C Williamson Memorial Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bronx River Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crocheron Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Little Bay Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "College Avenue Greenthumb",
+    "City": "New York City"
+  },
+  {
+    "Name": "Powell's Cove Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Valentino Pier",
+    "City": "New York City"
+  },
+  {
+    "Name": "Juniper Valley Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tepper Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Neponsit Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chelsea Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Estella Diggs Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mosholu Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Riverbend Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bell Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "City Hall Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barry Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nassau Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bronx Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "LaTourette Park & Golf Course",
+    "City": "New York City"
+  },
+  {
+    "Name": "Blue Heron Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bowling Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Magic Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lower East Side Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Canarsie Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spring Creek Park Addition",
+    "City": "New York City"
+  },
+  {
+    "Name": "Roosevelt Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Newport Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Washington Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Queensboro Oval",
+    "City": "New York City"
+  },
+  {
+    "Name": "Four Sparrow Marsh",
+    "City": "New York City"
+  },
+  {
+    "Name": "City Line Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bushwick Inlet Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bryant Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Livonia Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Duke Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hattie Carthan Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Family Group Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Culinary Kids Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brownsville Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Synergi Urban Garden UCFP",
+    "City": "New York City"
+  },
+  {
+    "Name": "Freshkills Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mall Eighteen",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hansborough Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Highbridge Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hawkins Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triboro Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hallets Cove Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Starlight Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lincoln Terrace / Arthur S. Somers Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mount Prospect Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rapkin-Gayle Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bath Beach Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pralls Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vincent F. Albano Jr. Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brevoort Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Breukelen Ballfields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wagner Houses Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Beach Wetlands",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seth Low Playground/ Bealin Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Heritage Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground 52 LII",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lorraine Hansberry Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clearview Park Golf Course",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Casita Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lt. Michael R. Davidson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marconi Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mission Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "West 23rd St. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gravesend Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greenbelt Native Plant Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Annadale Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Zion Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cohn Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Slope Park Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Castlewood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hackett Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Forest Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richmond Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Damrosch Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tiffany Street Pier",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bed-Stuy Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bartel-Pritchard Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "McKee Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Samuel Goldberg Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Parade Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ocean Parkway Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marine Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hart Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Laurelton Community Garden of Resilience",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flower Door Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woodside Houses Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arverne East Nature Preserve",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greenpoint Landing",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flight 587 Memorial Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Percy E. Sutton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bushman Steps",
+    "City": "New York City"
+  },
+  {
+    "Name": "Villa Santruce",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gustave Hartman Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hope Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prospect Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lott Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pat Williams Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Queens Farm Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach 30th Street Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Luke J. Lang Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peck Slip",
+    "City": "New York City"
+  },
+  {
+    "Name": "Moffat Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fiorello La Guardia Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem Grown",
+    "City": "New York City"
+  },
+  {
+    "Name": "Java Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Overlook Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Holy Cow Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Imani II Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rose Hill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerome Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pelham Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kissena Corridor Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hempstead Bench Spread",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fairview Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stapleton Esplanade",
+    "City": "New York City"
+  },
+  {
+    "Name": "Warwick Street Greenery Glow Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Watson Houses Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maritcha R. Lyons Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "North Brother Island",
+    "City": "New York City"
+  },
+  {
+    "Name": "Saratoga Blake Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tranquility Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Halsey Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Halsey and Ralph Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Patchen Community Square Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "E. 43 St. Block Assoc. Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cornell Burial Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ferry Point Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Susan Smith McKinney Steward Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Box Street Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sage Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "President Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cypress Hills Change Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Change Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Libertad Urban Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Her-King Alagantic Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arlington Marsh Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prospect Plaza Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Havemeyer Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Siempre Verde Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "W. 111th St. Harlem Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brownsville Community Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Isabahlia Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Student Farm Project",
+    "City": "New York City"
+  },
+  {
+    "Name": "Surfside Multi-Cultural Garden Coalition",
+    "City": "New York City"
+  },
+  {
+    "Name": "BSCAH Urban Farm",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pirates Cove Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cardozo Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Patterson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hilton White Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Naples Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Briarwood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ten Eyck Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Surf Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Osborn Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bath Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Belmont Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jerome Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pena Herrera Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Long Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pomonok Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arbutus Woods Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bunker Ponds Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "King Fisher Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hammel Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem Valley Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Henry Garnet Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pier 42",
+    "City": "New York City"
+  },
+  {
+    "Name": "Al Stabile Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Brooklyn Children's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pagan's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bartlett Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rocket Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wakefield Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Beach Boardwalk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tompkinsville Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Melrose Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Gregory's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "North 5th Street Pier and Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walter Gladwin Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Of Happiness",
+    "City": "New York City"
+  },
+  {
+    "Name": "Preston Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Central Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rev. T. Wendell Foster Park and Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kwame Ture Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Schiff Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mariners Marsh Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barrett Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Claremont Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Ferry Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spargo  Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alice Austen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "WNYC Transmitter Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mount Eden Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Uncle\" Vito F. Maranzano Glendale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jamaica Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Notorious LIC Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Socrates Sculpture Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maria Hernandez Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crotona Parkway Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marble Hill Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walton Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tiffany Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mapes Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "Machate Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corporal Wiltshire Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Major Mark Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Nicholas Playground South",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Queen Elizabeth II September 11th Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crack Is Wack Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Hamilton Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground One",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abe Lebewohl Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Locust Grove Civic Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Allison Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "City Island Wetlands",
+    "City": "New York City"
+  },
+  {
+    "Name": "Samuel Marx Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem Art Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fred Samuel Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Greenpoint Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clumber Corner",
+    "City": "New York City"
+  },
+  {
+    "Name": "Butterfly Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Forest Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mercer Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Avenue R Mall",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arbor Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pvt. Sonsire Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lithuania Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Derosa O'Boyle Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sheridan Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Devanney Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abigail Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Demo Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "McCarthy Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pearl St Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Amundsen Circle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Catherine Slip Malls",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brust Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spuyten Duyvil Shorefront Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Henry Hudson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Independence Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Muller Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Phyllis Post Goodman Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Townsend Walk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richman (Echo) Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cedar Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brigadier General Charles Young Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whalen Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "Palmer Inlet",
+    "City": "New York City"
+  },
+  {
+    "Name": "Flushing Meadows Corona Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fresh Creek Nature Preserve",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bay Beach 84 Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Coney Island Beach & Boardwalk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Asser Levy Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Laurelton Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mall Thirty Four XXXIV",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bridge Park 3",
+    "City": "New York City"
+  },
+  {
+    "Name": "Horseshoe Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wards Island Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hempstead Ballfield",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alley Athletic Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bensonhurst Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Quaker Parrot Park at the Dust Bowl",
+    "City": "New York City"
+  },
+  {
+    "Name": "Newtown Barge Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Father Macris Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Austin J. McDonald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Samuel H. Young Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gemini Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Triborough Bridge Playground D",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vito Locascio Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Co-op City Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pelham Bay Little League",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fox Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bayside Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Julio Carballo Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Roberto Clemente Ballfield",
+    "City": "New York City"
+  },
+  {
+    "Name": "Floyd Patterson Ballfields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Martinez Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walker Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Haffen Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "West 186th Street Basketball Court",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcy Park South",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cooney Grauer Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Quarry Ballfields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem RBI",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lillian D Wald Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Castle Hill Little League Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "William F. Passannante Ballfield",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rodney Park North",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rodney Park Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Broad Channel American Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Calvert Vaux Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Coney Island Boat Basin",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harris Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Field Of Dreams Court",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bay Breeze Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cpl Fischer Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clearview Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barretto Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whitestone Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lafayette Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joseph Rodman Drake Park & Enslaved African Burial Ground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Museum",
+    "City": "New York City"
+  },
+  {
+    "Name": "Asser Levy Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Korean War Veterans Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tompkins Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Of Eden",
+    "City": "New York City"
+  },
+  {
+    "Name": "River Avenue Parks",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ralph Bunche Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "London Planetree Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Daly Ave Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Annunciation Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Riverdale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bushwick Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wave Hill",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chelsea Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington's Walk",
+    "City": "New York City"
+  },
+  {
+    "Name": "Siren Slope",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carmansville Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Poe Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Williamsbridge Oval",
+    "City": "New York City"
+  },
+  {
+    "Name": "Margaret I. Carman Green - Weeping Beech",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bryan Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Slattery Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mount Hope Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Davidson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grand Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mabel Hampton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jardin De Las Rosas",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cleopatra Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Half-Nelson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Galileo Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Downing Street Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Coleman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Herald Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nelson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alexander Hamilton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Webster Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Franz Sigel Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "D'Auria-Murphy Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Prospect Cemetery",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Batey de Doña Provi Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Murphy Brothers Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "CS 134 Community Improvement Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Youth Village",
+    "City": "New York City"
+  },
+  {
+    "Name": "Genesis Park Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rev Lena Irons Unity Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackie Robinson Park Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Behagen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackson-Forest Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edith Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Printers Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dr. Gertrude B. Kelly Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Luther Gulick Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gertrude Ederle Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Catherine's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Nicholas Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Longfellow Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rev J Polite Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Vartan Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Roger Morris Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vesuvio Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Charlton Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Verdi Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hart To Hart",
+    "City": "New York City"
+  },
+  {
+    "Name": "Robert L. Clinkscales Playground and Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Worth Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "J. Hood Wright Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Courtlandt Avenue Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Isla Verde Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "St. Ann's Block Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain Rivera Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Orchard Alley Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Public Theater",
+    "City": "New York City"
+  },
+  {
+    "Name": "United We Stand Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Padre Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tanahey Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crowley Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sara D. Roosevelt Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Agnes Haywood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Almeda Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dag Hammarskjold Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Loreto Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stars & Stripes Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fisher Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "MacArthur Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bellevue South Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Union Square Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arverne Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Twenty-Four Sycamores Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peter Detmold Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Asphalt Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stanley Isaacs Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Albert J. Parham Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Children's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Joseph C. Sauer Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Charlton Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Minetta Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Minetta Green",
+    "City": "New York City"
+  },
+  {
+    "Name": "First Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Captain Jacob Joseph Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kosciuszko Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Constance Baker Motley Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Strawberry Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcy Green South",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sorrentino Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcy Green North",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcy Green Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Commodore Barry Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Metropolitan Recreation Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mazzei Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Boston Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Van Nest Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Little Flower Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis Cuvillier Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "ABC Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bufano Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Courtney Callender Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mathews-Palmer Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "White Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Honey Locust Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Conference House Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willowbrook Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hunter's Point South Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lentol Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Astoria Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Concrete Plant Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Abe Stark Skating Rink",
+    "City": "New York City"
+  },
+  {
+    "Name": "Steeplechase Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Burns Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eastchester Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Riverside Park South",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thursby Basin Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Zimmerman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brighton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Snug Harbor Cultural Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gwen Ifill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rockaway Community Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Franklin D. Roosevelt Boardwalk and Beach",
+    "City": "New York City"
+  },
+  {
+    "Name": "Faber Pool and Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pelham Bay Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Red Hook Recreation Area",
+    "City": "New York City"
+  },
+  {
+    "Name": "Queensbridge Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seton Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Old Town Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Arrochar Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rev. Dr. Maggie Howard Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Matthews Muliner Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Midland Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Midland Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bill Bojangles Robinson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Reed's Basket Willow Swamp Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Martin Luther King Jr. Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Silver Lake Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clove Lakes Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Highland Park Childrens Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Botanic Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Story Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dyker Beach Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carroll Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marion Hopkinson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fort Tryon Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Two Coves Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Simeone Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Andrews Grove",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pueble Unido Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Cuevita Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pleasant Park Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Our Little Green Acre/garden Eight",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jackie Robinson Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "W 124th Street Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lower East Side Ecology Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Los Amigos Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 76 Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Peachtree Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "New 123rd St Block Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Morris-Jumel Ecological Education Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mobilization For Change",
+    "City": "New York City"
+  },
+  {
+    "Name": "Community Garden Association",
+    "City": "New York City"
+  },
+  {
+    "Name": "117th St Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "William B. Washington Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Liz Christy Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "La Plaza Cultural",
+    "City": "New York City"
+  },
+  {
+    "Name": "Merchant's House Museum",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frank White Memorial Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "9th St Community Garden Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "W 104th Street Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Detective Omar Edwards Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pleasant Village Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "6th St and Ave B Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sunshine Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fishbridge Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Septuagesimo UNO",
+    "City": "New York City"
+  },
+  {
+    "Name": "El Jardin Del Paraiso Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harlem Rose Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "West 111th St. People's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "CEP Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Louis Armstrong Community Center",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gene Gray Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corporal John A. Seravalli Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Samuel Seabury Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sol Lain Plgd",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wright Brothers Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Montbellier Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Matthew P. Sapolin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wagner Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Centreville Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Haggerty Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Real Good Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Electric Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ravenswood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mafera Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground Thirty Five XXXV",
+    "City": "New York City"
+  },
+  {
+    "Name": "Starr Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maple Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nathan Weidenbaum Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frederick Douglass Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tecumseh Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "DeSalvio Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frederick B. Judge Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Daniel M. O'Connell Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Howard Von Dohlen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Middle Village Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Josephine Caminiti Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Holcombe Rucker Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jes Good Rewards Childeren's Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hoparkinson R&L Block Association Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Maggie's Magic Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "East Flatbush Children's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harmony Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Success Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Cobble Hill Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Helen Marshall Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mae Grant Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alice Kornegay Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tom McDonald Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lindower Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mary O'Connor Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Trygve Lie Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Anibal Aviles Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Monsignor Kett Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Alfred E. Smith Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sheltering Arms Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fresh Meadows Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harding Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Randall Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Waterfront Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Charlie's Place",
+    "City": "New York City"
+  },
+  {
+    "Name": "McCaffrey Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Linden Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "John J Carty Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sarsfield Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brizzi Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Washington Skate Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sgt. William Dougherty Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grace Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hillside Dog Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dean Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Glenwood Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Raoul Wallenberg Forest",
+    "City": "New York City"
+  },
+  {
+    "Name": "Spuyten Duyvil Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Terrace Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 149 Artsy Bloom Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "American Heart",
+    "City": "New York City"
+  },
+  {
+    "Name": "All People's Church of the Apostolic Faith Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lewis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hope Ballfield",
+    "City": "New York City"
+  },
+  {
+    "Name": "Goodwin Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sunshine Community Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Earth Spirit Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Project Roots",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 4 Paradise Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Georgia Ave Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Backyard",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Amazing Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "George Walker Jr. Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gardens Of Union",
+    "City": "New York City"
+  },
+  {
+    "Name": "Carter G. Woodson Children's Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nehemiah Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mother Cabrini Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Umma Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gateway Triangle",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ten Eyck Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thomas Boyland Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Robert E. Venable Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Friends Field",
+    "City": "New York City"
+  },
+  {
+    "Name": "Woods Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Houston Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Chester Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Remsen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Eleanor Roosevelt Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "De Hostos Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "North Pacific Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bergen Beach Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Curtis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kosciuszko Pool",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stroud Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Corona Golf Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ethan Allen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "100% Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Garden Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Century Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fermi Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Evergreen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Hickman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Fish Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jacob Joffe Fields",
+    "City": "New York City"
+  },
+  {
+    "Name": "Whalen Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Edmonds Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Park Slope Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "DiGilio Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Beach Channel Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Berriman Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pink Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tiger Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marc And Jason's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Benson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Grady Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bayview Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Wingate Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "West Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nostrand Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Herman Dolgon Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Tilden Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Nicholas Naquan Heyward Jr. Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Seward Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Queens Valley Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Squibb Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jennie Jerome Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rochdale Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Trinity Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "United Community Center Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Harry Chapin Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pierrepont Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Pfc Norton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Mellett Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Aesop Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Hancock Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 125 Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Dr. Green Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Baisley Pond Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Berry Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Thomas Greene Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Jennifer's Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "CPL. Thompson Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bloomingdale Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Marcy Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Shore Country Club",
+    "City": "New York City"
+  },
+  {
+    "Name": "John Allen Payne Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Davis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "E.M.T. Christopher J. Prescott Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Latinos Unidos Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Clawson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "DeLury Square",
+    "City": "New York City"
+  },
+  {
+    "Name": "Vogue Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Millbrook Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Rienzi Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "West Farms Rapids",
+    "City": "New York City"
+  },
+  {
+    "Name": "South Oxford Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Imagination Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Stockton Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Willowbrook Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Frank D. O'Connor Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Cyclone",
+    "City": "New York City"
+  },
+  {
+    "Name": "Richmond Terrace Storehouse",
+    "City": "New York City"
+  },
+  {
+    "Name": "Brooklyn Academy Of Music",
+    "City": "New York City"
+  },
+  {
+    "Name": "Isham Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Devoe Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Macombs Dam Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Albemarle Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "North Rochdale Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Walter Ward Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Lanett Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Oakland Gardens",
+    "City": "New York City"
+  },
+  {
+    "Name": "Detective William T. Gunn Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Sugar Hill Hope Garden",
+    "City": "New York City"
+  },
+  {
+    "Name": "Plaza",
+    "City": "New York City"
+  },
+  {
+    "Name": "High Rock Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Deere Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Blood Root Valley",
+    "City": "New York City"
+  },
+  {
+    "Name": "Paerdegat Basin Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Crescent Beach Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Haviland Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Gouverneur Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ericsson Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Bill Brown Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Belt Parkway",
+    "City": "New York City"
+  },
+  {
+    "Name": "Ennis Playground",
+    "City": "New York City"
+  },
+  {
+    "Name": "Playground 103 CIII",
+    "City": "New York City"
+  },
+  {
+    "Name": "P.S. 29 Ballfield",
+    "City": "New York City"
+  },
+  {
+    "Name": "Broad Channel Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "The Battery",
+    "City": "New York City"
+  },
+  {
+    "Name": "Francis Lewis Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Kaiser Park",
+    "City": "New York City"
+  },
+  {
+    "Name": "Barker Square",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Barry Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Burnet Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Cannon Street Community Center",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Clinton Playlot",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Comfort Tyler Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Dunbar Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Eastwood Heights Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Homer-Wheaton Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Huntington Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Kirk Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Lewis Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Libba-Cotton Grove",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Lincoln Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "McChesney Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "McKinley Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Meachem Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Nottingham Courts",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Onondaga Park Upper",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Ormand Spencer Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Roesler Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Schiller Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Skiddy Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Spirit of Jubilee Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Sunnycrest Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Thornden Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Wadsworth Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Washington Square Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Westmoreland Park",
+    "City": "Syracuse"
+  },
+  {
+    "Name": "Wilson Park",
+    "City": "Syracuse"
+  }
+]
