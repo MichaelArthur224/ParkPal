@@ -5,7 +5,8 @@ This was created using ReactJS and Flask
 How To Run
 1. Install Flask ``pip install Flask``
 2. Run ``python server.py`` in the backend directory
-3. Run ``npm start`` in the frontend src directory
+3. Setup ``npm i react-router-dom`` in the frontend\parkpal directory
+4. Run ``npm start`` in the frontend src directory
 
 You may need to create a Flask environment depending on your system
 Flask
